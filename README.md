@@ -4,6 +4,7 @@ AlfredEver
 Evernote Extention & workflows.
 
 
+
 Example Usage
 =============
 
@@ -13,6 +14,7 @@ memo fuga #idea
 memo piyo #idea -open
 ```
 
-Blog (Extention info)
+
+Blog (Extention)
 =============
 http://blog.azzip-azzip.com/2012/10/alfred_alfredever/
