@@ -20,7 +20,7 @@ default keyword `memo`.
 Parameter
 ------------
 
-`#○○`　dd tag.
+`#hoge` add tag.
 
 `-open` open note.
 
