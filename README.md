@@ -1,6 +1,18 @@
 AlfredEver
 ==========
 
-Evernote Alfred Extention.
+Evernote Extention & workflows.
 
-詳細 : http://blog.azzip-azzip.com/2012/10/alfred_alfredever/
+
+Example Usage
+=============
+
+```
+memo hogehoge
+memo fuga #idea
+memo piyo #idea -open
+```
+
+Blog (Extention info)
+=============
+http://blog.azzip-azzip.com/2012/10/alfred_alfredever/
